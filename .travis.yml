@@ -9,7 +9,7 @@ branches:
     - master
 
 deploy:
-  provider: "heroku"
+  provider: heroku
   app: bseu-cd
   api_key:
-    secure: "1c3dc469-ed41-42e5-9137-bdad207ccfd1"
+    secure: 1c3dc469-ed41-42e5-9137-bdad207ccfd1
