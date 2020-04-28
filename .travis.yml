@@ -12,4 +12,4 @@ deploy:
   provider: heroku
   app: bseu-cd
   api_key:
-    secure: 1c3dc469-ed41-42e5-9137-bdad207ccfd1
+    secure: 34c004c3-1be5-4fed-bb10-993f9932e0e8
